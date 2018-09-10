@@ -1,2 +1,2 @@
 # PythonCrashCourse
-Repos of examples and 'Try it Yourself' code
+Repo of examples and 'Try it Yourself' code from the Python Crash Course book. 
